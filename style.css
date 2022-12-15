@@ -1,0 +1,199 @@
+
+
+body{
+    background: url(yellow-watercolor-paper.jpg) ;
+}
+
+h1{
+    text-align: center;
+    color: #d3d9df;
+    font-size: 3.9rem;
+    
+}
+
+.contain{
+    display: flex ;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    gap: 20px;
+    width: 880px;
+    padding:5px;
+}
+.box{
+width: 260px;
+height: 260px;
+background-color: white;
+padding: 15px;
+border-radius: 13px;
+}
+    
+
+h2{
+    text-align: center ;
+    color:#e2c508;
+    font-size: 2em;
+}
+.text{
+    text-align: center;
+    
+}
+.tap{
+    text-align: center;
+    color: rgba(20, 20, 5, 1);
+    
+   
+}
+a:link{
+color: black;
+}
+@media screen and (max-width: 1800px){body{
+    background: url(yellow-watercolor-paper.jpg) ;
+    
+}
+h1{
+text-align: center;
+color: #d3d9df;
+font-size: 3.5rem;
+margin: 50px;
+
+
+}
+.contain{
+display: flex ;
+margin: 0 auto;
+flex-wrap: wrap;
+justify-content:space-between;
+gap: 15px;
+width: 850px;
+padding:5px;
+
+
+}
+.box{
+width: 250px;
+height: 250px;
+background-color: white;
+padding: 10px;
+border-radius: 13px;
+}
+h2{
+    text-align: center ;
+    color:#e2c508;
+    font-size: 2em;
+}
+.text{
+    text-align: center;
+    
+}
+.tap{
+    text-align: center;
+    color: rgba(20, 20, 5, 1);
+    
+   
+}
+a:link{
+color: black;
+}
+
+}
+
+@media screen and (max-width: 1100px) {
+    body{
+        background: url(yellow-watercolor-paper.jpg) ;
+        
+}
+h1{
+    text-align: center;
+    color: #d3d9df;
+    font-size: 3.5rem;
+
+}
+.contain{
+    display: flex ;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    gap: 15px;
+    width: 580px;
+    padding:8px;
+    
+}
+.box{
+    width: 230px;
+    height: 230px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 13px;
+    }
+    h2{
+        text-align: center ;
+        color:#e2c508;
+        font-size: 2em;
+    }
+    .text{
+        text-align: center;
+        
+    }
+    .tap{
+        text-align: center;
+        color: rgba(20, 20, 5, 1);
+        
+       
+    }
+    a:link{
+    color: black;
+    }
+    
+
+}
+@media screen and ( max-width:680px ) {
+
+    h1{
+        text-align: center;
+        color: #d3d9df;
+        font-size: 3.5rem;
+        
+    }
+    body{
+        background: url(yellow-watercolor-paper.jpg) ;
+    }
+    .contain{
+        display: flex ;
+        flex-wrap: wrap;
+        justify-content:space-between;
+        gap: 15px;
+        margin: 0 auto;
+        width: 300px;
+        padding: 8px;
+        
+    }
+    .box{
+    width: 230px;
+    height: 230px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 13px;
+    }
+        
+    
+    h2{
+        text-align: center ;
+        color:#e2c508;
+        font-size: 2em;
+    }
+    .text{
+        text-align: center;
+        
+    }
+    .tap{
+        text-align: center;
+        color: rgba(20, 20, 5, 1);
+        
+       
+    }
+    a:link{
+    color: black;
+    }
+    
+}
